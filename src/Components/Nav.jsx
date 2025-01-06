@@ -14,7 +14,7 @@ const Nav = () => {
                     <a key={item.href} className='font-montserrat leading-normal text-lg text-slate-gray'>{item.label}</a>
                 ))}
             </ul>
-            <div>
+            <div className="hidden max-lg:block">
                 <img src={hamburger} alt="Hamburger" width={25} height={25}/>
             </div>
         </nav>
