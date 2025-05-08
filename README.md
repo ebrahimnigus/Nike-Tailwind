@@ -30,6 +30,11 @@ A modern, fully responsive Nike eCommerce store clone built with React and Tailw
 
 > Vite or Create React App – Build tool
 
+Screenshot
+
+![work3](https://github.com/user-attachments/assets/8f4062f9-173e-437b-9eea-aab08742711c)
+
+
 📦 Installation
 
 > bash
