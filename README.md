@@ -33,9 +33,15 @@ A modern, fully responsive Nike eCommerce store clone built with React and Tailw
 📦 Installation
 
 > bash
+
 > Copy
+
 > Edit
+
 > git clone https://github.com/your-username/Nike-Tailwind.git
+
 > cd Nike-Tailwind
+
 > npm install
+
 > npm run dev
