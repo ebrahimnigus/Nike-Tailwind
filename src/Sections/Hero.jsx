@@ -29,8 +29,8 @@ const Hero = () => {
         <img 
         src={bigShoeImg}
         alt="shoe collection"
-        width={1000}
-        height={1000}
+        width={1220}
+        height={1200}
         className="object-contain relative z-10"
         />
         <div className="flex sm:gap-6 gap-5 absolute -bottom-[5%] sm:left-[10%] max-sm:px-6">
